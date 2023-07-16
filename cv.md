@@ -18,4 +18,14 @@ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ------
 ### **Languages**
 1. Russian - Native
-2. English - Beginner (according to the online test at EFset Logo www.efset.org) ![progress](38.png)
+2. English - Beginner (according to the online test at EFset Logo www.efset.org).
+
+ Your score explained
+Your score indicates that your level is in the range of A1 BEGINNER to A2 ELEMENTARY, according to the guidelines set by the Common European Framework of Reference (CEFR).
+You are on your way to comprehending written and spoken vocabulary and sentences on topics from your daily life.
+
+Reading Score (65% Intermediate)
+You understand the main points of more abstract written texts, and you are able to infer meaning of some unfamiliar vocabulary.
+
+Listening Score (52% Beginner)
+You understand the general idea of conversations relevant to you provided they are clearly communicated and using high-frequency expressions.
