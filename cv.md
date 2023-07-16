@@ -18,5 +18,4 @@ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ------
 ### **Languages**
 1. Russian - Native
-2. English - Beginner (according to the online test at EFset Logo www.efset.org)
-![progress]((38).png)
+2. English - Beginner (according to the online test at EFset Logo www.efset.org) ![progress](38.png)
