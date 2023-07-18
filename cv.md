@@ -1,4 +1,4 @@
-# Vsevilod Elistratov
+# Vsevolod Elistratov
 ### **Junior Frontend Developer**
 ******
 ### **Contact information:**
